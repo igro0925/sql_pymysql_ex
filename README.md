@@ -19,3 +19,8 @@ conda activate llm_env
 llm_env 가상환경 활성화
  conda activate llm_env
 ```
+## 라이브러리 설치
+```
+-파이썬과 mysql 연동하기 위한 라이브러리
+pip install pymysql
+```
